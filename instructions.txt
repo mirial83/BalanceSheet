@@ -26,3 +26,18 @@ add two span elements within it. Give the first the text
 AcmeWidgetCorp. Give the second the text Balance Sheet. You 
 will use CSS to reverse the order of the text on the page, but 
 the HTML order will make more sense for a screen reader.
+
+Step 5
+Below your h1 element, create a div element. Give it an id 
+attribute set to years. You want this particular element to 
+be hidden from screen readers, so give it the aria-hidden 
+attribute set to true.
+
+Step 7
+Below your existing div element, add a new div element with 
+a class set to table-wrap. This will be the container for 
+your tables.
+
+Within that, add three table elements. You will be using 
+CSS to style these into a single table, but using separate 
+tables will help screen readers understand the document flow.
