@@ -130,3 +130,8 @@ Then add your thead and tbody.
 Step 18
 Within your thead, add a tr. Inside that, 
 add a td and three th elements.
+
+Step 19
+Give each th element a span element with the 
+class set to sr-only and the following text, 
+in order: 2019, 2020, and 2021.
