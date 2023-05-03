@@ -126,3 +126,7 @@ Step 17
 Time to move on to your second table. Start by 
 giving it a caption element set to Liabilities. 
 Then add your thead and tbody.
+
+Step 18
+Within your thead, add a tr. Inside that, 
+add a td and three th elements.
