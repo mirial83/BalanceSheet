@@ -50,3 +50,11 @@ caption-side CSS property.
 
 Add a caption element to your first table, and give it 
 the text Assets.
+
+Step 9
+The thead and tbody elements are used to indicate which 
+portion of your table is the header, and which portion 
+contains the primary data or content.
+
+Add a thead and tbody to your first table, below the 
+caption element.
