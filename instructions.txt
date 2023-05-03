@@ -379,3 +379,7 @@ Next you need to style your caption elements to look
 more like headers. Create a table caption selector. 
 Set the text to have a color of #356eaf, a size of 
 1.3em, and a normal weight.
+
+Step 52
+Now give the captions an absolute position, and shift 
+them -2.25rem from the top and 0.5rem from the left.
