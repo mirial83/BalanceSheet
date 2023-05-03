@@ -41,3 +41,12 @@ your tables.
 Within that, add three table elements. You will be using 
 CSS to style these into a single table, but using separate 
 tables will help screen readers understand the document flow.
+
+Step 8
+HTML tables use the caption element to describe what the 
+table is about. The caption element should always be the 
+first child of a table, but can be positioned with the 
+caption-side CSS property.
+
+Add a caption element to your first table, and give it 
+the text Assets.
