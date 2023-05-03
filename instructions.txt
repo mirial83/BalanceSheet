@@ -199,3 +199,8 @@ wrap Net Worth in a span with the class set to sr-only.
 Then add three td elements, giving the third a class 
 set to current, and giving each the following text: 
 $-171, $136, $334.
+
+Step 28
+Time to style your table. Start by resetting the box 
+model. Create an html selector and give it a box-sizing 
+property set to border-box.
