@@ -231,3 +231,8 @@ The clip-path property determines the shape the clip
 property should take. Set the clip-path property to 
 the value of inset(50%), forming the clip-path into a 
 rectangle within the element.
+
+Step 32
+Now you need to size these elements down. Give your 
+span[class~="sr-only"] selector a width and height 
+property set to 1px.
