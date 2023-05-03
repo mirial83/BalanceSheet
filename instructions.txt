@@ -390,3 +390,7 @@ your table body. Give them a width to fill the viewport,
 with a minimum and maximum of 4rem. This approach ensures 
 that the width is fixed, whereas setting width specifically 
 would allow the elements to shrink to the container.
+
+Step 54
+Now target the th elements within your table body, and 
+give them a width of the entire container, less 12rem.
