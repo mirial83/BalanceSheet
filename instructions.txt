@@ -331,3 +331,7 @@ set, regardless of the attribute's value.
 
 Give your new selector a bold font, a width of 4.5rem, 
 and text aligned to the right.
+Step 45
+You wrapped your tables in a container with the 
+table-wrap class. Create a selector for that class, 
+and give it a padding set to 0 0.75rem 1.5rem 0.75rem.
