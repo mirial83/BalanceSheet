@@ -5,3 +5,6 @@ is in English, head, and body elements.
 Give your head element the appropriate meta elements for the 
 charset and viewport, a title element with an appropriate title, 
 and a link element for your stylesheet.
+
+Step 2
+Within your body element, nest a section element within a main element.
