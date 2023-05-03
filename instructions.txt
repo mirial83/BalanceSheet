@@ -347,3 +347,13 @@ elements that do not match the selector - in this
 case, any of your span elements that do not have the 
 sr-only class. This ensures that your earlier rules 
 for the span[class~="sr-only"] selector are not overwritten.
+
+Step 47
+Rather than having to constantly double-check you are 
+not overwriting your earlier properties, you can use 
+the !important keyword to ensure these properties 
+are always applied, regardless of order or specificity.
+
+Give each property in your span[class~="sr-only"] 
+selector an !important keyword. Do not change any 
+of the values.
