@@ -38,3 +38,9 @@ section {
     margin: 0 auto;
     border: 2px solid #d0d0d5
 }
+#years {
+    display: flex;
+    top: 0;
+    justify-content: flex-end;
+    position: sticky;
+}
