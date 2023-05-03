@@ -357,3 +357,7 @@ are always applied, regardless of order or specificity.
 Give each property in your span[class~="sr-only"] 
 selector an !important keyword. Do not change any 
 of the values.
+
+Step 48
+Now that you have added the !important keyword, 
+you can remove the :not(.sr-only) from your span selector.
