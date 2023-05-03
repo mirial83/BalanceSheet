@@ -299,3 +299,7 @@ Create a #years selector, and enable flexbox.
 Justify the content to the end of the flex direction, 
 and make the element sticky. Fix it to the top of 
 its container with top: 0.
+
+Step 41
+Now apply some color to your #years. Make the text 
+#fff and the background #0a0a23.
