@@ -424,3 +424,7 @@ specific elements based on their order among siblings of
 the same type. Use this pseudo-selector to target the 
 third td element within your total table rows. Give it a 
 right padding of 0.5rem.
+
+Step 59
+Give your tr.total elements a hover effect that changes 
+the background to #99c9ff.
