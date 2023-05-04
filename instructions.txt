@@ -437,3 +437,8 @@ Step 61
 Select the tr elements with the class set to data. Give 
 them a background image of linear-gradient(to bottom, 
 #dfdfe2 1.845rem, white 1.845rem).
+
+Step 62
+Select the th elements within your tr.data elements. 
+Align the text to the left, and give them a top padding 
+of 0.3rem and a left padding of 0.5rem.
